@@ -2,7 +2,7 @@
 Creating a PWA reactapp
 * In Terminal type **npx create-react-app react-template --template cra-template-pwa**
 
-### Inside application directory, you can run several commands
+##### Inside application directory, you can run several commands
 
 * In Terminal type **npm start** and press return. Starts the development server.
 * In Terminal type **npm run build** and press return. Bundles the app into static files for production.
